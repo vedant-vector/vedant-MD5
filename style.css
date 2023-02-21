@@ -1,0 +1,16 @@
+div {
+  margin: auto;
+  padding: 20px;
+  border: 3px solid black;
+  max-width: fit-content;
+  background-color: antiquewhite;
+}
+#md5Hash {
+  width: 100%;
+}
+button {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border: black;
+  height: 22px;
+}
