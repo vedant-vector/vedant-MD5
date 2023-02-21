@@ -16,10 +16,10 @@ It has 5 major steps
   Standard name suggested (a,b,c,d)
 
 4) Processing Block:-
-  There are Four processing block (f,g,h,i)
-  Function of F => (b AND c) OR (NOT b AND d)
-  Function of G => (b AND c) OR (c AND NOT D)
-  Function of H => b XOR c XOR D
+  There are Four processing block (f,g,h,i) \
+  Function of F => (b AND c) OR (NOT b AND d)\
+  Function of G => (b AND c) OR (c AND NOT D)\
+  Function of H => b XOR c XOR D\
   Function of I => c XOR (b OR NOT D)
 
 5) Output as Message Digest
